@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FCMtestApp</string>
+    <string name="default_notification_channel_id">com.eeeun.fcmtestapp</string>
+
+</resources>
